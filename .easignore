@@ -1,0 +1,9 @@
+# Files not needed for the cloud build (keeps the upload small).
+node_modules/
+.expo/
+dist/
+web-build/
+android/
+ios/
+*.db
+*.log
