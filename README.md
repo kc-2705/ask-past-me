@@ -10,6 +10,13 @@ A voice journal for Android. Talk about your day, and the app writes it down, ta
 
 Everything stays on the phone. No account, no cloud, no AI service.
 
+<p>
+  <img src="docs/talk.jpg" width="24%" alt="Talk screen" />
+  <img src="docs/ask.jpg" width="24%" alt="Ask screen" />
+  <img src="docs/timeline.jpg" width="24%" alt="Timeline screen" />
+  <img src="docs/me.jpg" width="24%" alt="Me screen" />
+</p>
+
 ## Features
 
 - **Talk**: tap the mic and speak. Live speech-to-text, a live waveform, and the original recording saved for replay (Android 13+).
